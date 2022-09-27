@@ -7,6 +7,8 @@ Name: Justin Romanowski
 Lab#: Lab3A
 */
 
+//Create an APR calculcator for credit card
+
 #include <iostream>
 #include <string>
 using namespace std;
